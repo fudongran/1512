@@ -15,7 +15,7 @@
                 padding: 0;
                 width: 100%;
                 display: table;
-                font-weight: 100;
+                font-weight: 200;
                 font-family: 'Lato';
             }
 
@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">欢迎来到NBA5假球</div>
+                <div class="title">欢迎来到NBA5假球ggggg</div>
             </div>
         </div>
     </body>
