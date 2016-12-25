@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel fuhao 5</div>
+                <div class="title">欢迎来到NBA5假球</div>
             </div>
         </div>
     </body>
